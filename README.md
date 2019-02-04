@@ -8,7 +8,7 @@ Command:
 <br>
 3.Auto Xploit= xploit
 <br>
-4.Doeking Tools= dork
+4.Dorking Tools= dork
 <br>
 5.Ddos= ddos
 <br>
