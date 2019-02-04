@@ -23,4 +23,4 @@ def kentod():
                         continue
                 else:
                         print "Vuln ! = ",req_link
-Bujank()
+kentod()
