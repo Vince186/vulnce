@@ -7,8 +7,8 @@ def Space(j):
                 i+=1
 def adfin():
         f = open("wrd.txt","r");
-        print("\033[39;1mTarget ( ex : http://www.blackware.com / https://blackware.com ")
-        link = raw_input("\033[32;1mroot@BlackWare_Sec : ")
+        print("\033[39;1mTarget ( ex : http://www.AttackOfCyber.com / https://AttackOfCyber.com ")
+        link = raw_input("\033[32;1mroot@Vince_ID : ")
 	print "\033[92m \n\nlink adminnya ! : \n"
         while True:
                 sub_link = f.readline()
