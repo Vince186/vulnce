@@ -1,4 +1,3 @@
-#Jangan Recode Wordlist Ini Y!!
 admin.php
 admin.html
 index.php
