@@ -44,13 +44,13 @@ c="\033[36;1m"
 w="\033[39;1m"
 clear
 echo $r
-figlet AttackOfCyber
+figlet Zone-Xploiter
 echo $w
 echo "[  ---------------------------------------  ]"
 echo
 echo "Tools      : Tester Vulnerability Website"
 echo "Version    : 1.3"
-echo "Created By : Vince_ID"
+echo "Created By : Zx-Vince"
 echo
 echo "[  ---------------------------------------  ]"
 echo ""
