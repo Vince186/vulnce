@@ -15,8 +15,8 @@ echo $w
 printf "
  
  ≈≈≈≈≈≈≈ ASSALAMUALAIKUM
-Kalo gak tau username passwordnya silahkan hubungin
-+1765761-5125/+62895396843672
+Kalo gak tau username passwordnya silahkan hubungi
++62895396843672
  ≈≈≈≈≈≈≈≈
  
  "
